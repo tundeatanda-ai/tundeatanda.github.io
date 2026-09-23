@@ -1,0 +1,1 @@
+Place your profile photo here as profile.jpg. Add approved certificate and project evidence in subfolders.
