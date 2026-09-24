@@ -31,3 +31,14 @@ The package already contains:
 For future updates, replace/edit the relevant files in GitHub and commit the changes. GitHub Pages will redeploy automatically.
 
 After launch, we can add certificate galleries, approved project evidence, SEO improvements, animations, a contact form and a custom domain.
+
+
+## Adding future certifications yourself
+1. Put the certificate image in `assets/images/certificates/`.
+2. Open `certifications.html`.
+3. Copy an existing certification card and replace the title, issuer, date, description, image path and credential information.
+4. Add the exact verification URL supplied by the issuer when one exists.
+5. If no public verification URL exists, use a View certificate button instead.
+6. Upload the changed HTML and image to GitHub and commit.
+
+A complete example is available in `CERTIFICATION-MANUAL-UPDATE-GUIDE.md`.
